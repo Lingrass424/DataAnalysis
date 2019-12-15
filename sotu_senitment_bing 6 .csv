@@ -1,0 +1,14 @@
+,president,negative,positive,sentiment,AvgSentpos,AvgSentneg,allsentwords
+1,Barack Obama,1235,2344,1109,65.5,34.5,3579
+2,Dwight D. Eisenhower,1314,2995,1681,69.5,30.5,4309
+3,Franklin D. Roosevelt,1524,2296,772,60.1,39.9,3820
+4,George Bush,404,802,398,66.5,33.5,1206
+5,George W. Bush,1219,2156,937,63.9,36.1,3375
+6,Gerald R. Ford,347,615,268,63.9,36.1,962
+7,Harry S Truman,1410,2897,1487,67.3,32.7,4307
+8,Jimmy Carter,2318,5077,2759,68.7,31.3,7395
+9,John F. Kennedy,531,816,285,60.6,39.4,1347
+10,Lyndon B. Johnson,744,1306,562,63.7,36.3,2050
+11,Richard M. Nixon,1179,2436,1257,67.4,32.6,3615
+12,Ronald Reagan,865,1781,916,67.3,32.7,2646
+13,William J. Clinton,1185,2612,1427,68.8,31.2,3797
